@@ -1,0 +1,341 @@
+1. Which of the following proposals is the valid host range for the subnet on which the IP address 158.167.18.156/15 resides?
+158.166.0.1- 158.167.255.253
+158.165.255.253- 158.167.255.254
+(a)158.166.0.1- 158.167.255.254
+158.166.0.2- 158.168.0.2
+
+2. If the IP address 123.48.189.194/21 is assigned to an Ethernet port of a router, what host address could communicate with it?
+101.219.223.235
+75.153.38.143
+5.200.165.154
+13.28.168.153
+172.1.223.196
+43.241.96.42
+(a)123.48.189.109
+253.99.227.186
+
+3. Which of the following proposals is a private IP address?
+57.195.242.245
+(a)172.27.217.52
+249.204.256.26
+249.204.156.26
+4.137.228.63
+176.37.230.43
+218.106.207.158
+
+4. What is the network address of a host with an IP address of 182.161.121.118/24?
+180.0.0.0
+182.161.121.64
+182.161.120.0
+182.161.121.116
+0.0.0.0
+182.161.96.0
+182.160.0.0
+(a)182.161.121.0
+
+
+5. What is the maximum number of IP addresses that can be assigned to hosts on a local subnet using the 255.255.128.0 subnet mask?
+65536
+65532
+16380
+32768
+32770
+65530
+(a)32766
+16382
+32764
+
+6. You want to implement a mechanism that automates IP configuration, including IP address, subnet mask, default gateway and DNS information. What protocol will you use to achieve this?
+SNMP
+(a)DHCP
+SMTP
+ARP
+
+7. You have an interface on a router with the IP address of 124.144.156.248/21. Including the router interface, how many hosts can have IP addresses on the local network connected to the router interface?
+1020
+2050
+2044
+4090
+(a)2046
+2048
+4092
+2042
+4094
+
+8. Which of the following proposals is the valid host range for the subnet on which the IP address 1.93.149.6/17 resides?
+1.93.127.255- 1.93.255.250
+1.93.128.1- 1.94.0.1
+1.93.128.1- 1.93.255.251
+(a)1.93.128.1- 1.93.255.254
+1.93.128.1- 1.94.0.3
+
+9. What is the network address of a host with an IP address of 107.212.146.212.212/25?
+107.212.146.208
+107.128.0.0
+0.0.0.0
+64.0.0.0
+107.212.128.0
+(a)107.212.146.128
+107.212.0.0
+107.208.0.0
+107.212.146.192
+
+10. Which of the following proposals is the valid host range for the subnet on which the IP address 233.249.146.36/21 resides?
+233.249.143.255-233.249.151.250
+233.249.144.4-233.249.152.0
+(a)233.249.144.1-233.249.151.254
+233.249.144.6-233.249.152.1
+233.249.144.0-233.249.151.249
+
+11. Which of the following propositions is not true?
+(a)TCP is a datagram oriented protocol
+TCP does not support broadcasting
+TCP provides extended error checking mechanisms. This is because it provides flow control and data acknowledgement
+Data sequencing is a TCP feature (this means that packets arrive in order in the recipient)
+TCP is reliable because it guarantees the delivery of data to the router of the destination
+TCP is comparatively slower than UDP
+
+12. What is the network address of a host with an IP address of 166.175.144.121/23?
+166.128.0.0
+(a)166.175.144.0
+166.175.144.96
+128.0.0.0
+166.174.0.0
+166.0.0.0
+166.0.0.0
+166.175.144.120
+
+13. What is the maximum number of IP addresses that can be assigned to hosts on a local subnet using the 255.255.255.255.128 subnet mask?
+128
+60
+(a)126
+62
+252
+258
+124
+58
+64
+
+14. What is the maximum number of IP addresses that can be assigned to hosts on a local subnet using the 255.224.0.0 subnet mask?
+4194306
+4194302
+1048578
+4194300
+2097148
+4194298
+1048574
+(a)2097150
+1048576
+
+15. Which of the following proposals is a private IP address?
+(a)10.182.204.132
+116.124.85.24
+52.178.248.246
+186.183.40.79
+
+16. What DHCP protocol does it use at the transport layer level?
+ICMP
+TCP
+FTP
+(a)UDP
+
+17. You have an interface on a router with the IP address of 240.19.3.205/12. Including the router interface, how many hosts can have IP addresses on the local network connected to the router interface?
+1048576
+2097154
+(a)1048574
+524284
+1048578
+2097148
+1048572
+
+18. What is the broadcast address of a host with an IP address of 51,254,122,100/24?
+51.254.122.0
+51.254.122.1
+51.254.122.254
+(a)51.254.122.255
+
+19. What is the CIDR notation of the 255.255.128.0 subnet mask?
+/8
+/16
+/9
+(a)/17
+
+20. What is the CIDR notation of the 255.255.192.0 subnet mask?
+/5
+/31
+(a)/18
+/14
+
+21. What are the different layers of the OSI model?
+(a)Application - Presentation - Session - Transport - Network - Data Link - Physical
+Application - Mediation - Session - Transport - Network - Data Link - Physical
+Presentation - Session - Transport - Network - Data Link - Application - Real
+Relation - Transport - Session - Data Link - Mediation - Presentation - Application
+
+
+22. What is the network address of a host with an IP address of 116.45.224.50/8?
+116.0.1.0
+(a)116.0.0.0
+116.255.255.0
+116.255.255.255
+
+
+23. What is the network address of a host with an IP address of 45.195.37.187/16?
+45.194.37.187
+45.0.0.0
+45.194.0.0
+(a)45.195.0.0
+
+24. _______ translates Internet domain names and host names into IP addresses
+Network time protocol
+Default routing protocol
+(a)Domain name system
+OSI model system
+
+25. Which IP address class has more host addresses available by default?
+C
+D
+E
+F
+(a)FIRST
+
+26. Which of the following propositions is not true?
+UDP is faster, simpler and more efficient than TCP
+UDP only has the basic error control mechanism
+UDP is a datagram oriented protocol
+(a)UDP does not support broadcasting
+
+27. Which of the following propositions is not true?
+TCP is a connection-oriented protocol
+TCP does not support broadcasting
+TCP provides extended error checking mechanisms. This is because it provides flow control and data acknowledgement
+Data sequencing is a TCP feature (this means that packets arrive in order in the recipient)
+(a)The delivery of data to the destination cannot be guaranteed in TCP
+TCP is reliable because it guarantees the delivery of data to the router of the destination
+
+28. What is the default IP address class available?
+A AND B
+FIRST
+(a)C
+B
+
+29. What is the subnet mask of /24?
+255.255.255.255
+(a)255.255.255.0
+255.0.0.0
+255.255.128.0
+255.192.0.0
+255.224.0.0
+
+30. Which of the following IP addresses is a private address?
+169.153.119.123
+24.23.102.151
+255.62.136.173
+(a)10.166.25.20
+46.244.138.171
+27.147.158.251
+
+31. Which of the following IP addresses is a private address?
+222.9.230.144
+135.167.134.35
+172.32.0.5
+27.157.141.96
+(a)172.16.0.2
+129.244.78.149
+137.223.167.235
+
+32. Which of the following IP addresses is a private address?
+108.246.233.231
+146.227.105.173
+59.155.254.18
+253.29.133.220
+(a)192.168.20.253
+94.152.104.99
+
+33. What is the size of an IPV4 address?
+128 bits
+(a)32 bits
+64 miles
+16 bits
+8 bits
+64 bytes
+128 bytes
+
+34. What is the size of an IPV6 address?
+(a)128 bits
+32 bits
+64 miles
+16 bits
+8 bits
+64 bytes
+128 bytes
+
+35. What type of address is supported by DHCP?
+IPV4
+IPV6
+(a)IPV4 and IPV6
+None of them
+
+36. Which protocol does Ping use?
+ARP
+BootP
+TCP
+(a)ICMP
+
+37. Which of the following propositions is not true?
+UDP is faster, simpler and more efficient than TCP
+(a)UDP provides extended error checking mechanisms. This is because it provides flow control and data acknowledgement
+UDP is a datagram oriented protocol
+UDP supports broadcasting
+
+38. Which of this is not a class of IP address?
+
+C
+D
+E
+F
+(a)A
+
+39. To the test IP stack on your local host, which IP address would you ping?
+
+127.0.0.0
+1.0.0.127
+(a)127.0.0.1
+127.0.0.255
+
+40. What is the default subnet mask for a class C network? ㅇ
+(1) None of the above
+(2) 255.0.0.0
+(3) 255.255.255.0(a)
+(4) 192.0.0.1
+(5) 127.0.0.1
+
+41. Which of this is not true?
+(1) There is no sequencing of data in UDP. If ordering is required, it has to be managed by the application layer(o)
+(2) UDP has only the basic error checking mechanism using checksums(o)
+(3) UDP is faster, simpler and more efficient than TCP(o)
+(4) UDP is reliable as it guarantees delivery of data to the destination router(x)
+(5) UDP is datagram-oriented protocol(o)
+(6) UDP supports Broadcasting(o)
+
+(유형1) 네트워크 및 브로드캐스트 주소를 구하는 문제
+
+ ex) What is the network address of a host with an IP address of 182.161.121.118/24?
+ 풀이) IP계산기에 주소 그대로 붙여넣기 -> network_id가 정답
+ 
+(유형2) 호스트 주소 수를 구하는 문제
+
+ ex) What is the maximum number of IP addresses that can be assigned to hosts on a local subnet using the 255.255.255.128 subnet mask?
+ ex) You have an interface on a router with the IP address of 198.243.73.32/12. Including the router interface, how many hosts can have IP addresses on the LAN attached to the router interface?
+ 풀이) IP계산기에 주소:주소 붙여넣기 -> num_of_host가 정답
+ 
+(유형3) 호스트 주소의 범위 구하는 문제
+ 
+ ex) Which of the following proposals is the valid host range for the subnet on which the IP address 1.93.149.6/17 resides?
+ ex) If an Ethernet port on a router were assigned an IP address of 114.102.143.38/29, which host address would be able to communicate with it?
+ 풀이) IP계산기에 주소 그대로 붙여넣기 -> host_range가 정답
+ 
+(유형4) 개인 IP주소를 고르는 문제
+
+ ex) Which of the following IP addresses is a private address?
+ 풀이) IP계산기에 'p'입력 -> 보기를 붙여넣은 후 'yes'뜨는 보기가 정답

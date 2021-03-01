@@ -1,0 +1,192 @@
+<1st>
+
+1. What is the Network address of a host with an IP address of 73.102.235.102/23? ㅇ
+
+2. If an Ethernet port on a router were assigned an IP address of 28.254.149.210/17, which host address would be able to communicate with it? ㅇ
+
+3. What is the maximum number of IP addresses that can be assigned to hosts on a local subnet that uses the 255.255.255.248 subnet mask? ㅇ
+
+4. Which class of IP address has the most host addresses available by default? ㅇ
+
+5. What is the default subnet mask for a class C network? ㅇ
+(1) None of the above
+(2) 255.0.0.0
+(3) 255.255.255.0
+(4) 192.0.0.1
+(5) 127.0.0.1
+
+6. Which of the following is private IP address? ㅇ
+
+7. What is the Network address of a host with an IP address of 91.119.124.172/15? ㅇ
+
+8. Which of this is not true? ㅇ
+
+9. Which protocol does DHCP use at the Transport layer? ㅇ
+
+10. You have an interface on a router with the IP address of 198.243.73.32/12. Including the router interface, how many hosts can have IP addresses on the LAN attached to the router interface? ㅇ
+
+11. If an Ethernet port on a router were assigned an IP address of 165.1.199.26/29, which host address would be able to communicate with it? ㅇ
+
+12. How long is an IPv4 address? ㅇ
+
+13. What is the maximum number of IP addresses that can be assigned to hosts on a local subnet that uses the 255.255.255.248 subnet mask? ㅇ
+
+14. How long is an IPv6 address? ㅇ
+
+15. Which of the following is private IP address? ㅇ
+
+16. What is the maximum number of IP addresses that can be assigned to hosts on a local subnet that uses the 255.255.240.0 subnet mask? ㅇ
+
+17. You have an interface on a router with the IP address of 172.255.74.156/14. Including the router interface, how many hosts can have IP addresses on the LAN attached to the r1outer interface? ㅇ
+
+18. Which of the following is the valid host range for the subnet on which the IP address 202.48.231.233/29 resides? ㅇ
+
+19. Which of the following is the valid host range for the subnet on which the IP address 72.169.3.44/20 resides? ㅇ
+
+20. If an Ethernet port on a router were assigned an IP address of 15.18.211.152/20, which host address would be able to communicate with it? ㅇ
+
+<2nd>
+
+1. What is the maximum number of IP addresses that can be assigned to hosts on a local subnet that uses the 255.240.0.0 subnet mask?
+
+2. What is the maximum number of IP dresses that can be assigned to hosts on a local subnet that uses the 254.0.0.0 subnet mask?
+
+3. The _ translates internet domain and host names to IP dress
+
+4. How long is an IPv6 address?
+
+5. You have an interface on a router with the IP address of 110.242.79.196/25. Including the router interface, how many hosts can have IP addresses on the LAN attached to the router interface?
+
+6. Which class of IP address has the most host addresses available by default?
+
+7. What is the Network address of a host with an IP address of 114.6.230.159/16?
+
+8. If an Ethernet port on a router were assigned an IP address of 179.81.214.63/21, which host address would be able to communicate with it?
+
+9. Which of the following is the valid host range for the subnet on which the IP address 186.79.236.78/28 resides?
+
+10. What is the maximum number of IP addresses that can be assigned to hosts on a local subnet that uses the 255.0.0.0 subnet mask?
+
+11. Which of the following services use UDP? 1. DHCP 2. SMTP 3. FTP 4. HTTP
+
+12. If an Ethernet port on a router were assigned an IP address of 114.102.143.38/29, which host address would be able to communicate with it?
+
+13. Which of the following is the valid host range for the subnet on which the IP address 140.190.7.36/15 resides?
+
+14. Which of this is not true?
+(1) There is no sequencing of data in UDP. If ordering is required, it has to be managed by the application layer(o)
+(2) UDP has only the basic error checking mechanism using checksums(o)
+(3) UDP is faster, simpler and more efficient than TCP(o)
+(4) UDP is reliable as it guarantees delivery of data to the destination router(x)
+(5) UDP is datagram-oriented protocol(o)
+(6) UDP supports Broadcasting(o)
+
+15. What is the maximum number of IP addresses that can be assigned to hosts on a local subnet that uses the 255.255.248.0 subnet mask?
+
+16. Which of the following is private IP address?
+
+17. What is the Net work address of a host with an IP address of 148.54.21.231/25?
+
+18. If an Ethernet port on a router were assigned an IP address of 45.215.158.149/29, which host address would be able to communicate with it?
+
+19. Which of the following is private IP address?
+
+20. You have an interface on a router with the IP address of 186.79.226.108/25. Including the router interface, how many hosts can have IP addresses on the LAN attached to the router interface?
+
+<3rd>
+
+1. Which of this is not true?
+The delivery of data to the destination cannot be guaranteed in UDP
+UDP supports Broadcasting
+UDP is a datagram-oriented protocol
+UDP is faster, simpler and more efficient than TCP
+There is no sequencing of data in UDP. If ordering is required, it has to be managed by the application layer
+(Checked)UDP provides extensive error checking mechanisms. It is because it provides flow control and acknowledgment of data
+// TCP의 특징
+
+2. To test the IP stack on your local host, which IP address would you ping?
+(Checked)127.0.0.1
+// IP주소 구하는 문제
+
+3. You have an interface on a router with the IP address of 186.79.226.108/25. Including the router interface, how many hosts can have IP addresses on the LAN attached to the router interface?
+(Checked)4094
+// num of host 구하는 문제
+
+4.What is the Network address of a host with an IP address of 219.43.54.114/23?
+(Checked)219.43.54.0
+// IP주소 구하는 문제
+
+5. Which of this is not true?
+TCP is a connection-oriented protocol
+TCP is comparatively slower than UDP
+TCP provides extensive error checking mechanisms. It is because it provides flow control and acknowledgement of data
+TCP doesn't supports Broadcasting
+TCP is reliable as it guarantees delivery of data to the destination router
+(Checked)There is no sequencing of data in TCP. If ordering is required, it has to be managed by the application layer
+// UDP의 특징
+
+6. DHCP is used for _
+IPv4
+(Checked)Both IPv6 and IPv4
+Ipv6
+None of the mentioned
+// 
+
+7.What is the maximum number of IP addresses that can be assigned to hosts on a local subnet that uses the 255.255.255.248 subnet mask?
+(Checked)262142
+// num of host 구하는 문제
+
+8. If an Ethernet port on a router were assigned an IP address of 165.1.199.26/29, which host address would be able to communicate with it?
+(Checked)72.203.124.157
+// host range 구하는 문제
+
+9. Which of the following is the valid host range for the subnet on which the IP address 231.161.243.40/27 resides?
+(Checked)231.161.243.33-231.161.243.62
+// host range 구하는 문제
+
+10. What is the maximum number of IP addresses that can be assigned to hosts on a local subnet that uses the 255.255.128.0 subnet mask?
+(Checked)32766
+// num of host 구하는 문제
+
+11. What is the Network address of a host with an IP address of 91.119.124.172/15?
+(Checked)224.74.0.0
+// IP주소 구하는 문제
+
+12. Which of the following is private IP address?
+(Checked)10.109.190.31
+// 개인 IP주소 구하는 문제
+
+13. Which protocol does Ping use?
+BootP
+(Checked)ICMP
+ARP
+TCP
+//
+
+14. If an Ethernet port on a router were assigned an IP address of 5.65.154.117/15, which host address would be able to communicate with it?
+(Checked)5.65.180.66
+// host range 구하는 문제
+
+15. Which of the following is the valid host range for the subnet on which the IP address 117.66.125.961/16 resides?
+(Checked)117.66.0.1-117.66.255.254
+// host range 구하는 문제
+
+16. What is the Network address of a host with an IP address of 90.88.106.18/25?
+(Checked)90.88.106.0
+// IP주소 구하는 문제
+
+17. You have an interface on a router with the IP address of 104.180.230.132/25. Including the router interface, how many hosts can have IP addresses on the LAN attached to the router interface?
+(Checked)126
+// num of host 구하는 문제
+
+18. If an Ethernet port on a router were assigned an IP address of 5.65.154.117/15, which host address would be able to communicate with it?
+(Checked)146.70.152.187
+// host range 구하는 문제
+
+19. Which of the following is the valid host range for the subnet on which the IP address 117.66.125.961/16 resides?
+(Checked)115.83.154.41-115.83.154.46
+// host range 구하는 문제
+
+20. What is the Network address of a host with an IP address of 109.65.175.50/19?
+(Checked)109.65.160.0
+// IP주소 구하는 문제
